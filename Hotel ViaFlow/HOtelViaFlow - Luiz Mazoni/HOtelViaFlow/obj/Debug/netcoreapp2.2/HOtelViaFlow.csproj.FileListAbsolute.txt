@@ -1,0 +1,33 @@
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.csprojAssemblyReference.cache
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.csproj.CoreCompileInputs.cache
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.AssemblyInfoInputs.cache
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.AssemblyInfo.cs
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.deps.json
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.runtimeconfig.json
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.runtimeconfig.dev.json
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.dll
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.pdb
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.dll
+C:\Users\joaos\source\repos\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.pdb
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.deps.json
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.runtimeconfig.json
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.runtimeconfig.dev.json
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.dll
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.pdb
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.csprojAssemblyReference.cache
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.csproj.CoreCompileInputs.cache
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.AssemblyInfoInputs.cache
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.AssemblyInfo.cs
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.dll
+C:\Users\luiz.perez\Documents\1 Projeto\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.pdb
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.deps.json
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.runtimeconfig.json
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.runtimeconfig.dev.json
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.dll
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\bin\Debug\netcoreapp2.2\HOtelViaFlow.pdb
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.csprojAssemblyReference.cache
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.csproj.CoreCompileInputs.cache
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.AssemblyInfoInputs.cache
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.AssemblyInfo.cs
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.dll
+C:\Users\luiz.perez\Documents\ViaFlow Projects\Hotel ViaFlow\HOtelViaFlow\HOtelViaFlow\obj\Debug\netcoreapp2.2\HOtelViaFlow.pdb

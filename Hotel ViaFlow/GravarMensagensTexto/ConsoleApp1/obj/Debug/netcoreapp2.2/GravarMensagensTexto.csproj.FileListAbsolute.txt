@@ -1,0 +1,11 @@
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\GravarMensagensTexto.deps.json
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\GravarMensagensTexto.runtimeconfig.json
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\GravarMensagensTexto.runtimeconfig.dev.json
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\GravarMensagensTexto.dll
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\GravarMensagensTexto.pdb
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\GravarMensagensTexto.csprojAssemblyReference.cache
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\GravarMensagensTexto.csproj.CoreCompileInputs.cache
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\GravarMensagensTexto.AssemblyInfoInputs.cache
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\GravarMensagensTexto.AssemblyInfo.cs
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\GravarMensagensTexto.dll
+C:\Users\joaos\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\GravarMensagensTexto.pdb
